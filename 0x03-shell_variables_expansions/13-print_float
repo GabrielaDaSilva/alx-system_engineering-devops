@@ -1,2 +1,2 @@
 #!/bin/bash
-printfloat '%.2f/n' $NUM
+printfloat '%.2f\n' $NUM
